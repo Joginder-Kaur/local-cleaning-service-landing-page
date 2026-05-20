@@ -1,5 +1,5 @@
 ![Cleaning Service Landing Page](cleaning-service-landing-page.jpg)
-# local-cleaning-service-landing-page
+# b2b-service-conversion-ecosystem
 Landing page structure for a local residential and commercial cleaning service with quote request, service explanation, and client portal management.
 # Local Cleaning Service Landing Page Structure
 
